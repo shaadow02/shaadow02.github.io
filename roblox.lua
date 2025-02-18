@@ -8,7 +8,7 @@ getgenv()._=
 
 getgenv().Owner = "Shaadow02"
   
-game.Players.PlayerRemoving:Connect(function(player) if player.Name == getgenv().Owner then game:GetService("TeleportService"):Teleport(2788229376, player) end end)
+game.Players.PlayerRemoving:Connect(function(player) if player.Name == getgenv().Owner then game:GetService("TeleportService"):Teleport(76685175539041, player) end end)
   
 getgenv().Configuration = {
 ['Msg'] = 'shdw sigma.', --When You Say [/e msg] It Makes All The Alts Say That Message
@@ -50,7 +50,7 @@ getgenv()._=
 
 getgenv().Owner = "Shaadow02"
   
-game.Players.PlayerRemoving:Connect(function(player) if player.Name == getgenv().Owner then game:GetService("TeleportService"):Teleport(2788229376, player) end end)
+game.Players.PlayerRemoving:Connect(function(player) if player.Name == getgenv().Owner then game:GetService("TeleportService"):Teleport(76685175539041, player) end end)
   
 getgenv().Configuration = {
 ['Msg'] = 'shdw sigma.', --When You Say [/e msg] It Makes All The Alts Say That Message
