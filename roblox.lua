@@ -2,7 +2,7 @@ local player = game.Players.LocalPlayer
 local userId = player.UserId 
 local placeId = game.PlaceId  
 
-if userId == 7707023966 and placeId == 2788229376 then
+if userId == 7707100265 and placeId == 2788229376 then
 getgenv()._=
 "Join discord.gg/msgabv2t9Q | discord.gg/stando to get latest update ok bai OwO_ | If you pay for this script you get scammed, this script is completely free ok"
 
@@ -44,7 +44,7 @@ getgenv().Configuration = {
 ['SummonMusic'] = false, --[true | false]
 ['SummonMusicID'] = 'Default' -- Enter a Sound ID Put [Default] If You Would Like The Default Sound
 }loadstring(game:HttpGet("https://xk5ng.github.io/V4.8"))()
-elseif userId == 7707014553 and placeId == 2788229376 then
+elseif userId == 7706958517 and placeId == 2788229376 then
 getgenv()._=
 "Join discord.gg/msgabv2t9Q | discord.gg/stando to get latest update ok bai OwO_ | If you pay for this script you get scammed, this script is completely free ok"
 
