@@ -1,7 +1,7 @@
 local player = game.Players.LocalPlayer 
 local userId = player.UserId 
 local placeId = game.PlaceId  
-local alt1 = 7706958517
+local alt1 = 7707300778
 local alt2 = 7707100265
 
 if userId == alt1 and placeId == 2788229376 then
